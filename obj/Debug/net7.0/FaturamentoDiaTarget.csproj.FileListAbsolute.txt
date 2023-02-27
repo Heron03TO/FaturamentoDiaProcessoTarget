@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\bin\Debug\net7.0\FaturamentoDiaTarget.exe
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\bin\Debug\net7.0\FaturamentoDiaTarget.deps.json
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\bin\Debug\net7.0\FaturamentoDiaTarget.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\bin\Debug\net7.0\FaturamentoDiaTarget.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\bin\Debug\net7.0\FaturamentoDiaTarget.pdb
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\refint\FaturamentoDiaTarget.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.pdb
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\FaturamentoDiaTarget.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\FaturamentoDiaTarget\obj\Debug\net7.0\ref\FaturamentoDiaTarget.dll
